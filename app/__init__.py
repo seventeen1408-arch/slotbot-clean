@@ -1,0 +1,1 @@
+"""SlotSignalsBot package."""
